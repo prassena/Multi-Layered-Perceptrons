@@ -12,4 +12,4 @@ Batch normalization : To increase the stability of a neural network, batch norma
 In this IPYNB i have trained different MLP with different number of hidden layer ,droupouts and batch normilization .we can see how the result varies with the change in the architecture of Neural Network. 
 
 # Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
-please click the following link https://nbviewer.jupyter.org/github/prassena/-KNN/blob/master/KNN.ipynb
+please click the following link https://nbviewer.jupyter.org/github/prassena/Multi-Layered-Perceptrons/blob/master/Multi%20Layered%20Perceptrons.ipynb
