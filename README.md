@@ -10,3 +10,6 @@ Dropout is a regularization technique for neural network models.A Simple Way to 
 Batch normalization : To increase the stability of a neural network, batch normalization normalizes the output of a previous activation layer by subtracting the batch mean and dividing by the batch standard deviation,so that each batch will be having same kind of distribution even at deaper layer of Nueral Network.
 
 In this IPYNB i have trained different MLP with different number of hidden layer ,droupouts and batch normilization .we can see how the result varies with the change in the architecture of Neural Network. 
+
+# Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
+please click the following link https://nbviewer.jupyter.org/github/prassena/-KNN/blob/master/KNN.ipynb
