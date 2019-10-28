@@ -1,0 +1,17 @@
+# if you keras is not using tensorflow as backend set "KERAS_BACKEND=tensorflow" use this command
+from keras.utils import np_utils 
+from keras.datasets import mnist 
+import seaborn as sns
+from keras.initializers import RandomNormal
+%matplotlib notebook
+%matplotlib inline
+import matplotlib.pyplot as plt
+import numpy as np
+import time
+import keras
+from keras import metrics
+from keras.models import Sequential
+from keras.layers import Dense, Activation
+
+from keras.layers.normalization import BatchNormalization
+from keras.layers import Dropout
